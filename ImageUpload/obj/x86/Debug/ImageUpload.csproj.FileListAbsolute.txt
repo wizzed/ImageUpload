@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Debug\ImageUpload.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Debug\ImageUpload.ImageUpload.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Debug\ImageUpload.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Debug\ImageUpload.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Debug\ImageUpload.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Debug\ImageUpload.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Debug\ImageUpload.csprojResolveAssemblyReference.cache

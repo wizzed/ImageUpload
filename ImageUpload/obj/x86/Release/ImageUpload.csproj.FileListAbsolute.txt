@@ -1,0 +1,25 @@
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Release\ImageUpload.exe.config
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Release\ImageUpload.exe
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Release\ImageUpload.pdb
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.ImageUpload.resources
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.Properties.Resources.resources
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.csproj.GenerateResource.Cache
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.exe
+C:\Users\wizzed\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.pdb
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\bin\Release\ImageUpload.exe.config
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.exe
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.pdb
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\bin\Release\ImageUpload.exe
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\bin\Release\ImageUpload.pdb
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.ImageUpload.resources
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.Properties.Resources.resources
+C:\Users\User\Desktop\Pingz and ImageUpload PROJECT\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Release\ImageUpload.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Release\ImageUpload.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\bin\Release\ImageUpload.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.ImageUpload.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\ImageUpload\ImageUpload\obj\x86\Release\ImageUpload.csproj.GenerateResource.Cache
